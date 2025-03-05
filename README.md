@@ -1,1 +1,4 @@
-# messaging-app-with-rsvp
+# About the App
+- Users of the messaging app are able to schedule events, select the expected participants within the group chat, then wait for them to confirm whether they are planning to go or not. Event creators should be able to pick a location, date, time, and add additional information (such as links or files). The event will then be pinned at the top of the chatbox until the event has concluded.
+- Participants who choose "Confirm/ Will Go" will be able to see the event in their respective Google Calendar accounts.
+- Before an event is created, users may first conduct a poll or an availability checker (refer to [schej.it](https://schej.it/)) to be able to select the appropriate date, time, and location. If the event is a casual hangout as opposed to an official office meeting, it will be ideal if there is an algorithm present that could find or suggest optimal locations. The latter would most likely require the users to input their hone address or at least pin a certain landmark.
